@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# 暫存檔與 Debug 專用檔
+*.dSYM
+tempCodeRunnerFile.cpp
