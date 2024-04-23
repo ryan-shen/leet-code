@@ -1,0 +1,10 @@
+# https://clang.llvm.org/docs/ClangFormatStyleOptions.html
+
+AlignTrailingComments: false
+AllowShortIfStatementsOnASingleLine: false
+BasedOnStyle: LLVM
+ColumnLimit: 120
+IndentWidth: 2
+PointerAlignment: Left
+UseCRLF: false
+UseTab: Never
